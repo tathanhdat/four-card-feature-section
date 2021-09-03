@@ -19,7 +19,7 @@ Mobile Version
 
 ### Links
 
--   Live Site URL: [Add live site URL here](https://tathanhdat.github.io/four-card-feature-section/)
+-   [Live site URL](https://tathanhdat.github.io/four-card-feature-section/)
 
 ### Built with
 
