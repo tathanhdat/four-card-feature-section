@@ -10,8 +10,11 @@ Users should be able to:
 
 ### Screenshot
 Desktop Version
+
 ![Desktop screenshot](https://github.com/tathanhdat/four-card-feature-section/blob/main/Screenshot-desktop.png)
+
 Mobile Version
+
 ![Mobile screenshot](https://github.com/tathanhdat/four-card-feature-section/blob/main/Screenshot-mobile.png)
 
 ### Links
